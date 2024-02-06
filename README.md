@@ -1,2 +1,2 @@
 # GentlerSummary
-Example app for (gentler.app)[gentler.app].
+Example app for [gentler.app](gentler.app).
