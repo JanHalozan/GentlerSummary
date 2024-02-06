@@ -1,2 +1,2 @@
 # GentlerSummary
-A dummy assignment app
+Example app for (gentler.app)[gentler.app].
